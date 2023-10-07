@@ -1,0 +1,9 @@
+line-profiler==4.0.3
+line-profiler-pycharm==1.1.0
+numpy==1.24.2
+opencv-python==4.7.0.72
+Pillow==9.4.0
+pygame==2.3.0
+pygame-menu==4.4.1
+pyperclip==1.8.2
+typing_extensions==4.5.0

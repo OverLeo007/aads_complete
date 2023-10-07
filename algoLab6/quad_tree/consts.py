@@ -1,0 +1,23 @@
+"""
+Файл с дефолтными значениями констант, используемых в пакете
+"""
+
+
+WIDTH = 800
+HEIGHT = 600
+BALL_RADIUS = 10
+FPS_LIMIT = 60
+TIME_SPEED = 1
+NODE_CAPACITY = 2
+IS_RENDER_NUMS = False
+BALL_COLOR = (0, 0, 255)
+BALL_COLOR_INV = (255, 0, 0)
+IS_GEN = True
+BALLS_COUNT = 100
+BALL_MIN_RADIUS = 20
+BALL_MAX_RADIUS = 30
+BALL_MIN_VELOCITY = 1
+BALL_MAX_VELOCITY = 5
+MAX_COLLISIONS = 50
+
+
